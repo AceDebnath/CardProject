@@ -32,5 +32,23 @@
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  color: rgb(82, 77, 77);
+  color: hsl(0, 63%, 79%);
+}
+
+/* for button External*/
+/* .button{
+  background-color: #f98b8b;
+  color:black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+} */
+
+.student{
+  border: 1px solid black;
+  font-size: 1em;
+  padding :0px;
+  margin: 0px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
